@@ -15,7 +15,7 @@ const ImagemRotativa = ({ imagens }) => {
 
   return (
     <div>
-      <img src={imagens[indiceAtual]} alt={`Imagem ${indiceAtual}`} />
+      <img src={imagens[indiceAtual]} alt={`Imagem ${indiceAtual}`} s/>
     </div>
   );
 };
