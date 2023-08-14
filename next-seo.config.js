@@ -1,24 +1,24 @@
 export default {
     openGraph: {
         type: 'website',
-        locale: 'en_IE',
-        title: 'next lnks by realvjy',
-        url: 'https://vjy.me',
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
-        locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        locale: 'pt_br',
+        title: 'Rafaela Abbiti',
+        url: 'Rafaela Abbiti',
+        description: 'Consultora de vendas @grupoadelveiculos 🚗',
+        locale: 'pt_br',
+        keywords: 'consultor de vendas, carros novos, carros usados, consultor de vendas jf',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                url: `rafa.png`,
             },
         ],
-        site_name: 'realvjy',
+        site_name: 'Rafaela Abbiti',
     },
     twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
+        handle: '@Rafaela Abbiti',
+        site: 'Rafaela Abbiti',
         cardType: 'summary_large_image',
     },
 };

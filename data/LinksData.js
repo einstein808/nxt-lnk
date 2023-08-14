@@ -6,11 +6,11 @@ const webLinks = [
         url: 'https://twitter.com/realvjy',
         type: 'social',
         icon: '/twitter.svg',
-        on: true
+        on: false
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://www.instagram.com/rafaelaabbiti/',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -34,7 +34,8 @@ const webLinks = [
         url: 'https://github.com/realvjy',
         type: 'social',
         icon: '/github.svg',
-        on: true
+        on: false
+
     },
     {
         title: 'Youtube',
@@ -48,7 +49,7 @@ const webLinks = [
         url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
-        on: true
+        on: false
     },
     {
         title: 'Behance',
@@ -69,7 +70,7 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
@@ -108,32 +109,32 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Use this template',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
+        title: 'Chame no WhatsApp',
+        url: 'https://api.whatsapp.com/send?phone=5532999346163&text=Ol%C3%A1+%2C+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+compra%2Fvenda+de+carro.',
         type: 'install',
-        icon: '/use.png',
+        icon: '/whats.png',
         on: true
     },
     {
         title: 'Deploy on Vercel',
-        url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
+        url: '',
         type: 'install',
         icon: '/vercel.svg',
-        on: true
+        on: false
     },
     {
         title: 'Documentation',
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'install',
         icon: '/doc.png',
-        on: true
+        on: false
     },
     {
         title: 'Github',
         url: 'https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/github-fill.svg',
-        on: true
+        on: false
     },
 
     {
@@ -141,7 +142,7 @@ const webLinks = [
         url: 'https://www.buymeacoffee.com/realvjy',
         type: 'other',
         icon: '/bmc.png',
-        on: true
+        on: false
     },
 
     {
@@ -149,7 +150,7 @@ const webLinks = [
         url: 'https://vjy.me/lnk',
         type: 'other',
         icon: '/vjy.png',
-        on: true
+        on: false
     },
 
     {
